@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 6.Pandas-in-Data-Science
 Python Pandas tutorials and projects demonstrating data cleaning, spend analysis, inventory analysis, supplier performance evaluation, and supply chain data analytics using real-world business datasets.
 
@@ -42,3 +43,7 @@ Step 18: Split the data into training set and the test set.
 Step 19: Check if the training data is imbalanced
 
 Step 20: Balance the training data using SMOTE technique
+=======
+# Pandas in Data Science
+
+>>>>>>> e3d050d0845416f251b1c7146221dcabc6ddab96
